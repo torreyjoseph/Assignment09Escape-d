@@ -1,0 +1,11 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53894:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/joseph/IdeaProjects/Escape'd/out/production/Escape'd Main
+
+While playing, follow one verb with one noun, i.e. 'look around,' 'go north,' or 'open book. Do not use more than 2 words per statement.'
+
+You wake up sprawled on a cold, ornate marble floor in what appears to be a dimly lit foyer. There are no visible windows, and the small amount
+of light there is comes from seemingly nowhere. A heavy-looking mahogany door is to the north. To the west, there is a sleek bench pushed against
+the wall. To the east is a console table with a small box on top. A large, old-fashioned candle sits on a pedestal in the centre of the room. The
+candle is unlit.
+You have 30 turns left to escape.
+
+>> 
